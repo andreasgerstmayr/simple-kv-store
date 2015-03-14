@@ -1,0 +1,10 @@
+{
+    "database": {
+         "shards": 3
+    },
+    "server": {
+        "host": "localhost",
+        "port": 6000,
+        "verticles": 5
+    }
+}
